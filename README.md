@@ -13,7 +13,7 @@ Theater projects in the US are corwdfunded frequently on kickstarter. They have 
 
 Expanding on the previous chart, and diving into the Theater subcategory, we see that plays are the most popular, and most successfully funded. 
 
-![Kickstarter Descriptive Statistics.png](https://github.com/jburs/kickstarter-analysis)
+![Kickstarter_Descriptive_Statistics.png](https://github.com/jburs/kickstarter-analysis)
 
 Looking to the descriptive statistics. The successful kickstarters for plays have a mean goal of $5,049 and receive much higher value donations than the failed kickstarters. However, the standard deviations (std) are all roughly twice the interquarterly range (IQR) in each distribution, meaning the aveage goal and pledge are being skewed by some very large goals and pledges. This is exagerated further in the failed kickstarters where the std is three times the IQR.
 
