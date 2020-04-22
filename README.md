@@ -1,15 +1,15 @@
 # An Analysis of Kickstarter Campaigns
 Performing analysis on kickstarter data to uncover trends related to crowd funding a theatrical experience. 
 
-![Outcomes Based on Launch Date.png](https://github.com/jburs/kickstarter-analysis)
+![Outcomes Based on Launch Date.png](https://github.com/jburs/kickstarter-analysis/blob/master/Outcomes%20Based%20on%20Launch%20Date.png)
 
 The above figure shows the outcome trendlines for funding projects based on the month funding began. Based on the above data, the optimal times to begin a kickstarter campaign is May, with February being the second. These two months have the high success rates, and the largest difference between successful, and failed kickstarters. 
 
-![US Funding Outcomes by parent category.png](https://github.com/jburs/kickstarter-analysis)
+![US Funding Outcomes by parent category.png](https://github.com/jburs/kickstarter-analysis/blob/master/US%20Funding%20Outcomes%20by%20parent%20category.png)
 
 Theater projects in the US are corwdfunded frequently on kickstarter. They have the highest number of projects both sucessful and failed. Based on this, some advertising/ensentive is recomended to ensure your project gets viewed and traction on kickstarter. 
 
-![US Theater Funding success rates.png](https://github.com/jburs/kickstarter-analysis)
+![US Theater Funding success rates.png](https://github.com/jburs/kickstarter-analysis/blob/master/US%20Theater%20Funding%20success%20rates.png)
 
 Expanding on the previous chart, and diving into the Theater subcategory, we see that plays are the most popular, and most successfully funded. 
 
